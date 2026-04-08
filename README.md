@@ -20,7 +20,7 @@
   </ul>
 
   <h2>Contact</h2>
-  <p>Email: yourname@email.com</p>
+  <p>Email: zeyne.otieno@email.com</p>
 
 </body>
 </html>
