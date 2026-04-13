@@ -54,6 +54,46 @@
   <footer>
     <p>Contact: yourname@email.com</p>
   </footer>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Zeyne's Site</title>
 
+    <style>
+        body {
+            background-color: #0f172a;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        h1 {
+            color: #38bdf8;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #22c55e;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to my website 🔥</h1>
+    <p>I’m Zeyne and I’m learning coding</p>
+
+    <button onclick="sayHi()">Click me</button>
+
+    <script>
+        function sayHi() {
+            alert("You're getting better at coding 🚀");
+        }
+    </script>
+
+</body>
+</html>
 </body>
 </html>
